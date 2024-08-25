@@ -1,6 +1,6 @@
 ### Smart Room Project Description
 
-This smart room project is designed to read temperature data using an ADC (Analog-to-Digital Converter) connected to a temperature sensor (LM35), display the temperature on an LCD screen, and control various LEDs and devices (like a heater or fan) based on the temperature and user input through buttons
+This smart room project is designed to read temperature data using an ADC (Analog-to-Digital Converter) connected to a temperature sensor (LM35), display the temperature on an LCD screen, and control various LEDs and devices (like a heater or fan) based on the temperature and user input through buttons.
 
 #### Components Used:
 1. **ATmega32 Microcontroller**: The central unit that reads the temperature from the sensor, processes the input from buttons, and controls the outputs (LCD and LEDs).
